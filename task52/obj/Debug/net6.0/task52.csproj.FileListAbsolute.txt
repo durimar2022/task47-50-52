@@ -1,0 +1,5 @@
+C:\Users\vladimir\Desktop\git progects\sem7\task52\obj\Debug\net6.0\task52.csproj.AssemblyReference.cache
+C:\Users\vladimir\Desktop\git progects\sem7\task52\obj\Debug\net6.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladimir\Desktop\git progects\sem7\task52\obj\Debug\net6.0\task52.AssemblyInfoInputs.cache
+C:\Users\vladimir\Desktop\git progects\sem7\task52\obj\Debug\net6.0\task52.AssemblyInfo.cs
+C:\Users\vladimir\Desktop\git progects\sem7\task52\obj\Debug\net6.0\task52.csproj.CoreCompileInputs.cache
